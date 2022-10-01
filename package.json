@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-crypto-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hong Phuc <hongphuc.dthp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
